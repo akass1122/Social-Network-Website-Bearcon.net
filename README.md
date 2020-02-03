@@ -1,4 +1,4 @@
-# Social-Network-Website-Bearcon.net
+# [Social Network Website Bearcon.net](http://bearcon.net)
 
 This is repository for my side project http://bearcon.net - a social networking site for UC Berkeley students and alumni. Cal Bears can connect, share, post their profiles, and upload their pictures and resumes.  
 
